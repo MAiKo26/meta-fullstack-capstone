@@ -1,4 +1,4 @@
-# Meta Full Stack Course Project - Little Lemon Booking System
+# Meta Full Stack Capstone
 
 ## Project Overview
 
